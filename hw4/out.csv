@@ -19,7 +19,7 @@ Index,Churn
 17,False
 18,False
 19,False
-20,True
+20,False
 21,False
 22,True
 23,False
@@ -27,7 +27,7 @@ Index,Churn
 25,True
 26,False
 27,False
-28,False
+28,True
 29,True
 30,False
 31,False
@@ -45,9 +45,9 @@ Index,Churn
 43,True
 44,False
 45,False
-46,True
+46,False
 47,True
-48,False
+48,True
 49,False
 50,False
 51,False
@@ -155,10 +155,10 @@ Index,Churn
 153,False
 154,False
 155,False
-156,False
+156,True
 157,False
 158,False
-159,True
+159,False
 160,True
 161,False
 162,True
@@ -191,7 +191,7 @@ Index,Churn
 189,True
 190,False
 191,True
-192,False
+192,True
 193,False
 194,True
 195,True
@@ -224,13 +224,13 @@ Index,Churn
 222,False
 223,False
 224,False
-225,True
+225,False
 226,False
 227,True
 228,True
 229,False
 230,False
-231,True
+231,False
 232,False
 233,True
 234,False
@@ -356,7 +356,7 @@ Index,Churn
 354,False
 355,False
 356,True
-357,False
+357,True
 358,False
 359,False
 360,False
@@ -394,7 +394,7 @@ Index,Churn
 392,False
 393,False
 394,False
-395,False
+395,True
 396,False
 397,True
 398,False
@@ -420,7 +420,7 @@ Index,Churn
 418,False
 419,False
 420,False
-421,True
+421,False
 422,False
 423,False
 424,False
@@ -458,7 +458,7 @@ Index,Churn
 456,False
 457,True
 458,True
-459,True
+459,False
 460,False
 461,False
 462,False
@@ -601,7 +601,7 @@ Index,Churn
 599,False
 600,False
 601,False
-602,True
+602,False
 603,True
 604,False
 605,False
@@ -615,7 +615,7 @@ Index,Churn
 613,True
 614,True
 615,False
-616,False
+616,True
 617,False
 618,False
 619,False
@@ -730,7 +730,7 @@ Index,Churn
 728,False
 729,False
 730,False
-731,True
+731,False
 732,False
 733,False
 734,False
@@ -774,7 +774,7 @@ Index,Churn
 772,False
 773,False
 774,False
-775,True
+775,False
 776,False
 777,False
 778,True
@@ -813,7 +813,7 @@ Index,Churn
 811,True
 812,True
 813,False
-814,True
+814,False
 815,False
 816,False
 817,False
@@ -949,7 +949,7 @@ Index,Churn
 947,False
 948,False
 949,False
-950,False
+950,True
 951,False
 952,True
 953,False
@@ -1236,7 +1236,7 @@ Index,Churn
 1234,False
 1235,False
 1236,False
-1237,True
+1237,False
 1238,True
 1239,False
 1240,False
@@ -1404,10 +1404,10 @@ Index,Churn
 1402,False
 1403,False
 1404,False
-1405,False
+1405,True
 1406,False
 1407,True
-1408,True
+1408,False
 1409,True
 1410,True
 1411,False
@@ -1429,7 +1429,7 @@ Index,Churn
 1427,False
 1428,False
 1429,False
-1430,True
+1430,False
 1431,False
 1432,False
 1433,False
@@ -1640,7 +1640,7 @@ Index,Churn
 1638,False
 1639,False
 1640,False
-1641,True
+1641,False
 1642,True
 1643,False
 1644,False
@@ -1693,7 +1693,7 @@ Index,Churn
 1691,False
 1692,False
 1693,False
-1694,True
+1694,False
 1695,False
 1696,True
 1697,False
@@ -1708,7 +1708,7 @@ Index,Churn
 1706,False
 1707,False
 1708,False
-1709,False
+1709,True
 1710,True
 1711,True
 1712,False
@@ -1795,7 +1795,7 @@ Index,Churn
 1793,False
 1794,False
 1795,False
-1796,False
+1796,True
 1797,False
 1798,False
 1799,False
@@ -1869,7 +1869,7 @@ Index,Churn
 1867,False
 1868,False
 1869,False
-1870,False
+1870,True
 1871,False
 1872,False
 1873,False
@@ -2011,7 +2011,7 @@ Index,Churn
 2009,True
 2010,True
 2011,True
-2012,True
+2012,False
 2013,False
 2014,False
 2015,False
@@ -2049,7 +2049,7 @@ Index,Churn
 2047,False
 2048,False
 2049,False
-2050,False
+2050,True
 2051,False
 2052,False
 2053,True
@@ -2069,7 +2069,7 @@ Index,Churn
 2067,True
 2068,False
 2069,False
-2070,False
+2070,True
 2071,True
 2072,False
 2073,False
@@ -2093,7 +2093,7 @@ Index,Churn
 2091,False
 2092,True
 2093,False
-2094,False
+2094,True
 2095,False
 2096,False
 2097,True
@@ -2166,7 +2166,7 @@ Index,Churn
 2164,True
 2165,False
 2166,False
-2167,True
+2167,False
 2168,False
 2169,True
 2170,True
@@ -2182,7 +2182,7 @@ Index,Churn
 2180,False
 2181,True
 2182,True
-2183,False
+2183,True
 2184,False
 2185,False
 2186,False
@@ -2254,7 +2254,7 @@ Index,Churn
 2252,False
 2253,True
 2254,True
-2255,True
+2255,False
 2256,False
 2257,False
 2258,False
@@ -2278,7 +2278,7 @@ Index,Churn
 2276,False
 2277,False
 2278,False
-2279,True
+2279,False
 2280,False
 2281,False
 2282,False
